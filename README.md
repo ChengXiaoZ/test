@@ -4,7 +4,7 @@ AntDB is a distributed database with share nothing architecture. The goal of Ant
 
 AntDB provides the following features:
 
-* Highly compatible with the Oracle database(support 90% oracle
+* Highly compatible with the Oracle database(support about 80% oracle
 grammars and oci7)
 
 * Distributed transaction(2PC) and global MVCC
