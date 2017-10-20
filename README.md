@@ -5,16 +5,15 @@ AntDB is a distributed database based on PGXC. The goal of AntDB is to provide b
 AntDB provides the following features:
 
 * Highly compatible with the Oracle database(support 90% oracle
-grammar and oci7)
+grammars and oci7)
 
 * Distributed transaction(2PC) and global MVCC
 
-* Massively parallel processing accross mang nodes
+* Massively parallel processing accross inner nodes
  
 * Dynamic expanding database cluster capacity
 
-* Highly operational automation 
-
+* High degree of automation operation and maintenance
 
 
 ## Quick start
