@@ -9,7 +9,7 @@ grammars and oci7)
 
 * Distributed transaction(2PC) and global MVCC
 
-* Massively parallel processing accross inner nodes
+* Massively parallel query processing(including rebalance data accross internal data node in complicated sql query)
  
 * Dynamic expanding database cluster capacity
 
@@ -17,11 +17,11 @@ grammars and oci7)
 
 
 ## Quick start
-[快速安装](https://github.com/ADBSQL/doc/blob/master/howAntdb.md).
+[快速安装](https://github.com/ADBSQL/docs/blob/master/AntDB/how-to-install-AntDB.md).
 
 ## Documentation
 
-[简体中文](https://github.com/MyCATApache/Mycat-doc).
+[简体中文](https://github.com/ADBSQL/docs/blob/master/AntDB/how-to-use-AntDB-manger.md).
 
 
 ## Follow us
