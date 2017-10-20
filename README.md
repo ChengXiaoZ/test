@@ -13,7 +13,7 @@ grammars and oci7)
  
 * Dynamic expanding database cluster capacity
 
-* High degree of automation operation and maintenance
+* Highly automated operation and maintenance
 
 
 ## Quick start
