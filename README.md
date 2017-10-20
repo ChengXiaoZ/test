@@ -1,6 +1,6 @@
 ## What is AntDB?
 
-AntDB is a distributed database based on PGXC. The goal of AntDB is to provide both write-scalability and massively parallel processing. AntDB is released under the Apache 2.0 license and we greatly welcome all new contributions.
+AntDB is a distributed database with share nothing architecture. The goal of AntDB is to provide both write-scalability and massively parallel processing. AntDB is released under the Apache 2.0 license and we greatly welcome all new contributions.
 
 AntDB provides the following features:
 
