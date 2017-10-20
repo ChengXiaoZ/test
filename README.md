@@ -25,6 +25,4 @@ grammars and oci7)
 
 
 ## Follow us
-QQ:
-
-Webchat:
+QQ Group: 496464280
